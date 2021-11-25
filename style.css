@@ -1,0 +1,46 @@
+.image {
+  width: 300px;
+  border: 10px dashed rgb(247, 247, 247);
+  margin: 20px;
+}
+.cvtitle {
+  color: #212121;
+  font-family: "Boing";
+  font-size: 50px;
+  text-decoration: underline;
+  text-align: center;
+}
+.cvintro {
+  color: #d9cab3;
+  font-family: "boing";
+}
+.para {
+  color: #f6f6f6;
+  display: flex;
+  justify-content: center;
+}
+.listexp {
+  color: #d9cab3;
+  text-align: left;
+}
+.jobroles {
+  color: #f6f6f6;
+}
+html {
+  font-family: "boing medium";
+  background: #6d9886;
+}
+.hobbies {
+  color: #f6f6f6;
+}
+.hobbiestitle {
+  color: #d9cab3;
+}
+.specialdiv {
+  display: flex;
+  justify-content: center;
+}
+.specialbutton {
+  display: flex;
+  justify-content: center;
+}
